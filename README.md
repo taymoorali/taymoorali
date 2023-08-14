@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taymoor Ali</h1>
 <h3 align="center">A full stack developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Docker** 🐋
 
 - 💬 Ask me about **react, next.js**
 

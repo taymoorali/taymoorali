@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taymoor Ali</h1>
-<h3 align="center">A full stack developer from Pakistan</h3>
+<h3 align="center">A full stack engineer from Pakistan</h3>
 
 - 🌱 I’m currently learning **Docker** 🐋
 

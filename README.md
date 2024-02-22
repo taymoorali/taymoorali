@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react, next.js**
 
-- 📫 How to reach me **taymoorali@outlook.com**
+- 📫 How to reach me **contact@taymoor.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

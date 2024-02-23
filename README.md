@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taymoor Ali</h1>
 <h3 align="center">A Full Stack Engineer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Docker** 🐋
-
 - 💬 Ask me about **react, next.js**
 
 - 📫 How to reach me **contact@taymoor.dev**

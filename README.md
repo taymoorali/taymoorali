@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taymoor Ali</h1>
 <h3 align="center">A Software Engineer from Pakistan</h3>
 
-- 💬 Ask me about **software developments**
+- 💬 Ask me about **software development**
 
 - 📫 How to reach me **contact@taymoor.dev**
 </p>
